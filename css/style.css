@@ -1,0 +1,53 @@
+/*common start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+}
+
+/*common end*/
+
+/*header start*/
+header{
+	background-color: #F0FFF0;
+	padding: 13px 0;
+}
+.c_nav{}
+.logo{
+	width: 195px;
+}
+.menu ul li a{
+	
+	font-size: 16px;
+    line-height: 24px;
+    color: #000000 !important;
+    padding: 0 10px !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_common{
+	background-color: #21B573 !important ;
+    border-radius: 33px;
+    align-items: center; 
+    font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+}
+.btn_header{
+	margin-left: 5px;
+	 width: 105px;
+	 height: 43px;
+	 padding: 12px 25px;
+}
+.btn_common:hover{
+	background-color: #FD511A !important;
+
+}
+
+
+/*header end*/
